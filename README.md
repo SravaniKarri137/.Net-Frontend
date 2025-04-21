@@ -19,7 +19,7 @@ An end-to-end recruitment platform built with **React** (Frontend) and **.NET Co
 - Manage job postings
 - View and filter applications
 - Schedule interviews and record feedback
-- Generate recruitment reports
+
 
 ### 👤 Candidate
 - Create and manage profiles
