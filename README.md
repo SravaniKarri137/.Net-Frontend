@@ -1,4 +1,5 @@
-# 🧑‍💼 Online Recruitment System
+# 🧑‍💼 Online Recruitment Portal
+
 
 An end-to-end recruitment platform built with **React** (Frontend) and **.NET Core** (Backend) to simplify and manage the hiring process.
 
